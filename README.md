@@ -1,4 +1,4 @@
-# Calories Counter Built HTML, CSS, and JavaScript (DOM)
+# Calories Counter Built HTML, CSS, and JavaScript
 
 ## Here is the live link
 
